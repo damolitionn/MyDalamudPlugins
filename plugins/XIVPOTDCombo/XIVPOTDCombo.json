@@ -1,0 +1,13 @@
+{
+  "Author": "damolitionn",
+  "Name": "XIVPOTDCombo",
+  "InternalName": "XIVPOTDCombo",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Edited XIVCombo for use in PoTD",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/damolitionn/XIVPOTDCombo",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "Punchline": "Edited XIVCombo for use in PoTD."
+}
