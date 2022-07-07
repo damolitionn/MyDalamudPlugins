@@ -1,22 +1,21 @@
 [
     {
         "Author": "damolitionn",
-        "Name": "XIVPOTDCombo",
-        "Punchline": "Edited XIVCombo for use in PoTD.",
+        "Name": "XIVPotDCombo",
+        "Punchline": "Edited XIVCombo for use in PoTD",
         "Description": "Edited XIVCombo for use in PoTD",
         "InternalName": "XIVPOTDCombo",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/damolitionn/XIVPOTDCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
         "LoadPriority": 0,
-        "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/XIVPOTDCombo/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/XIVPOTDCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/XIVPOTDCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1656917461"
+        "LastUpdate": "1657155504"
     }
 ]
