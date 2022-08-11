@@ -21,6 +21,7 @@
     {
         "Author": "damolitionn",
         "Name": "CursedShit",
+		"Punchline": "Edited XIVCombo for personal use",
         "Description": "Edited XIVCombo for personal use",
         "InternalName": "CursedShit",
         "AssemblyVersion": "1.0.0.0",
@@ -35,5 +36,6 @@
         "DownloadLinkUpdate": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/CursedShit/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
+        "LastUpdate": "1660256222"
     }
 ]
