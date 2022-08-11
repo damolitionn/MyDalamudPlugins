@@ -17,5 +17,23 @@
         "DownloadLinkUpdate": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/XIVPOTDCombo/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1657329467"
+    },
+    {
+        "Author": "damolitionn",
+        "Name": "CursedShit",
+        "Description": "Edited XIVCombo for personal use",
+        "InternalName": "CursedShit",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/damolitionn/CursedShit",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+		"LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/CursedShit/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/CursedShit/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/CursedShit/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]

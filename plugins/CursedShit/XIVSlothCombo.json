@@ -1,0 +1,10 @@
+{
+    "Author": "damolitionn",
+    "Name": "CursedShit",
+    "InternalName": "CursedShit",
+    "DalamudApiLevel": 6,
+    "Punchline": "Edited XIVCombo for personal use",
+    "Description": "Edited XIVCombo for personal use",
+    "RepoUrl": "https://github.com/damolitionn/CursedShit",
+	"LoadPriority": 0,
+}
