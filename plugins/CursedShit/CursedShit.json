@@ -1,11 +1,12 @@
 {
-    "Author": "damolitionn",
-    "Name": "CursedShit",
-    "InternalName": "CursedShit",
-	"AssemblyVersion": "1.0.0.2",
-    "DalamudApiLevel": 6,
-    "Punchline": "Edited XIVCombo for personal use",
-    "Description": "Edited XIVCombo for personal use",
-    "RepoUrl": "https://github.com/damolitionn/CursedShit",
-	"LoadPriority": 0,
+  "Author": "damolitionn",
+  "Name": "CursedShit",
+  "InternalName": "CursedShit",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Edited XIVCombo for personal use",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/damolitionn/CursedShit",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Edited XIVCombo for personal use"
 }
