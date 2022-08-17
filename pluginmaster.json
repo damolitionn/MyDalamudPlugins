@@ -1,25 +1,6 @@
 [
     {
         "Author": "damolitionn",
-        "Name": "CursedShit",
-        "Punchline": "Edited XIVCombo for personal use",
-        "Description": "Edited XIVCombo for personal use",
-        "InternalName": "CursedShit",
-        "AssemblyVersion": "1.0.0.1",
-        "RepoUrl": "https://github.com/damolitionn/CursedShit",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/CursedShit/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/CursedShit/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/CursedShit/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1660276832"
-    },
-    {
-        "Author": "damolitionn",
         "Name": "XIVPotDCombo",
         "Punchline": "Edited XIVCombo for use in PoTD",
         "Description": "Edited XIVCombo for use in PoTD",
@@ -35,6 +16,25 @@
         "DownloadLinkTesting": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/XIVPOTDCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/XIVPOTDCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1660276832"
+        "LastUpdate": "1660724419"
+    },
+    {
+        "Author": "damolitionn",
+        "Name": "CursedShit",
+        "Punchline": "Edited XIVCombo for personal use",
+        "Description": "Edited XIVCombo for personal use",
+        "InternalName": "CursedShit",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "https://github.com/damolitionn/CursedShit",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/CursedShit/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/CursedShit/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/damolitionn/MyDalamudPlugins/raw/master/plugins/CursedShit/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1660724419"
     }
 ]
