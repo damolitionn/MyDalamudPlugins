@@ -6,7 +6,7 @@
   "Description": "Edited XIVCombo for personal use",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/damolitionn/CursedShit",
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "Edited XIVCombo for personal use"
 }
