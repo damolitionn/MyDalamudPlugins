@@ -6,7 +6,7 @@
   "Description": "Edited XIVCombo for use in PoTD",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/damolitionn/XIVPOTDCombo",
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "Edited XIVCombo for use in PoTD"
 }
